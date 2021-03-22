@@ -158,7 +158,6 @@ time {
 }
 
 .articleText {
-    text-align: center;
     font-size: 14px;
     margin: 10px 0;
 }
@@ -227,7 +226,7 @@ h3 {
         width: 100px;
         height: 100px;
     }
-    p {
+    .articleText {
         font-size: 10px;
     }
 }
@@ -252,7 +251,7 @@ h3 {
     h2 {
         font-size: 13px;
     }
-    p {
+    .articleText {
         font-size: 10px;
     }
   
@@ -309,7 +308,7 @@ h3 {
         text-align: center;
     }
 
-    p {
+    .articleText {
         font-size: 10px;
     }
 
